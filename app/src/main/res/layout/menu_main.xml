@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:text="菜单出现菜单1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_1">
+    </Button>
+    <Button
+        android:text="长按出现菜单2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bt_2" />
+    <Button
+        android:id="@+id/bt_3"
+        android:text="回上一个界面"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

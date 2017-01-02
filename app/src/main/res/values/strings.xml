@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="itemtitle1">菜单项1</string>
+    <string name="itemtitle2">菜单项2</string>
+</resources>
